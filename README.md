@@ -107,4 +107,4 @@ This project demonstrates how **data analytics** and **machine learning** can be
 
 ## 📬 Connect With Me
 *Saraswathi | Data Analyst*  
-🔗 LinkedIn: https://www.linkedin.com/in/saraswathi-gongala-6249a9137/
+🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/saraswathi-gongala-6249a9137/)
